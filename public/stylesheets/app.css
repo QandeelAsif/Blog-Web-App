@@ -1,0 +1,9 @@
+i{
+    size: 2em;
+}
+.container.main{
+    margin:7em;
+}
+#delete{
+    display: inline;
+}
